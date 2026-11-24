@@ -1,6 +1,12 @@
 # TOME
 
 TOME is a Streamlit application for uploading PDF documents, generating summaries, and chatting with PDF content.
+Landing Page looks like :
+<img width="681" height="467" alt="image" src="https://github.com/user-attachments/assets/80afd427-9e76-43b2-9cd4-82b5fa08e2e2" />
+
+Home Page  looks like : 
+<img width="959" height="470" alt="image" src="https://github.com/user-attachments/assets/ed3906fb-15b9-49ac-8e10-9fc07919cff1" />
+
 
 ## Features
 
